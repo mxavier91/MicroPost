@@ -2,18 +2,23 @@
   "posts": [
     {
       "id": 1,
-    "title": "Post One",
-    "body": "This is post one"
+      "title": "Post One",
+      "body": "This is post one"
     },
     {
       "id": 2,
-    "title": "Post Two",
-    "body": "This is post two"
+      "title": "Post Two",
+      "body": "This is post two"
     },
     {
       "id": 3,
-    "title": "Post Three",
-    "body": "This is post three"
+      "title": "Post Three",
+      "body": "This is post three"
+    },
+    {
+      "title": "New Post",
+      "body": "This is a new post",
+      "id": 7
     }
   ]
 }
